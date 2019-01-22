@@ -1,2 +1,2 @@
 # python-learn
-starting pytho
+starting python
